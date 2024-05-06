@@ -1,0 +1,6 @@
+@RestAppExecuteProcedure_HostAddress = http://localhost:5015
+
+GET {{RestAppExecuteProcedure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
